@@ -1,6 +1,5 @@
 # Netflix Movies and TV Shows Data Analysis using SQL
 solving business problems using Netflix raw dataset
-# Netflix Movies and TV Shows Data Analysis using SQL
 
 ![](https://github.com/Maisha10/Netflix-Dataset-Analysis/blob/main/netflix.png)
 
